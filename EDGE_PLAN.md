@@ -1,0 +1,4 @@
+- Use lightweight model (Logistic Regression)
+- Reduce TF-IDF features
+- Convert to ONNX
+- Run on mobile CPU
